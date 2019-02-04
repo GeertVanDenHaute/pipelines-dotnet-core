@@ -1,5 +1,9 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+GVDH: 
+[![Build Status](https://dev.azure.com/geertvandenhaute/Trello/_apis/build/status/Trello-NetCore?branchName=master)](https://dev.azure.com/geertvandenhaute/Trello/_build/latest?definitionId=2&branchName=master)
+
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
